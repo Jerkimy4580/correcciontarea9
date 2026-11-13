@@ -149,8 +149,8 @@ El coeficiente `k` es distinto por propiedad (presión 0.5, temperatura 0.2, vel
 ## 5. Instalación y ejecución
 
 ```bash
-git clone https://github.com/Jerkimy4580/C9T1---Aplicaciones-Pr-cticas-de-Arreglos-Multidimensionales-en-Ingenier-a.git
-cd C9T1---Aplicaciones-Pr-cticas-de-Arreglos-Multidimensionales-en-Ingenier-a
+git clone https://github.com/Jerkimy4580/correcciontarea9.git
+cd correcciontarea9
 python -m pip install -r requirements.txt
 
 python problema1.py
